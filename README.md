@@ -1,4 +1,4 @@
-<h1>Personal blog API. Django REST Framework</h1>
+<h1>Web courses structure. FASTApi</h1>
 
 <p align="center">
    <img src="https://img.shields.io/badge/FastAPI-0.105.8-blue" alt="Django Version">
